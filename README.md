@@ -40,3 +40,5 @@
 
 - [모두의 코딩](https://quibe.otter.coffee/)
   - AI와 단계적 문제 해결, 빠른 피드백을 통해 지루한 코딩 테스트를 재밌게 학습할 수 있는 서비스
+- [Radiant](https://www.radiant.ink)
+  - 참여형 해외 아티클 번역 블로그 서비스
